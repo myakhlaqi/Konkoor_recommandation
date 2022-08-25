@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "IR";
+    font-style: normal;
+    src: url("./fonts/IRANSans(FaNum).ttf");
+}
+
+@font-face {
+    font-family: "IR_B";
+    font-style: normal;
+    src: url("./fonts/IRANSans(FaNum)_Bold.ttf");
+}
+
+@font-face {
+    font-family: "IR_M";
+    font-style: normal;
+    src: url("./fonts/IRANSans(FaNum)_Medium.ttf");
+}
+
+@font-face {
+    font-family: "IR_L";
+    font-style: normal;
+    src: url("./fonts/IRANSans(FaNum)_Light.ttf");
+}
+
+.IR {
+    font-family: "IR";
+}
+
+.IR_B {
+    font-family: "IR_B";
+}
+
+.IR_M {
+    font-family: "IR_M";
+}
+
+.IR_L {
+    font-family: "IR_L";
+}
+
+.f_12{
+    font-size: 12px;
+}
+.f_14{
+    font-size: 14px;
+}
+.f_16{
+    font-size: 16px;
+}
+.pipe {
+    font-size: 14px;
+    color: #d8d8da;
+}
+
+
+.main_contian{
+    padding: 25px 15px;
+}
+
+.line {
+    border-bottom: solid #e5e5e5 thin;
+}
+
+.input-group--text-field.input-group--dirty label {
+    font-size: 16px;
+}
+
+input-group__input .icon {
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
