@@ -46,6 +46,7 @@ These instructions will get you a copy of the project up and running on your loc
 You need to install latest version of *nodejs* on your local system.
 
 ### Installing
+Befor installing edit the 'src/database/configs.js' file and replace your firebase database info to save your data.
 
 All things you need to install is to run this command.
 
