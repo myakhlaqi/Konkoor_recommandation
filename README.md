@@ -84,7 +84,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Firebase](https://firebase.google.com/)  - Database
-- [Express](https://expressjs.com/) - Server Framework
 - [Vuetify](https://vuetifyjs.com/) - Web UI Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
