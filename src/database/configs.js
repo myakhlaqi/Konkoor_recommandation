@@ -1,9 +1,9 @@
 let firebaseConfig = {
-    apiKey: "AIzaSyAsRMAtY5stgp2VFDyBWzO1Fg3c46zPVJo",
+     apiKey: "xxx", // Add your data
     authDomain: "choice-d5aba.firebaseapp.com",
     databaseURL: "https://choice-d5aba.firebaseio.com",
-    projectId: "choice-d5aba",
+    projectId: "your project id", // Add your data
     storageBucket: "choice-d5aba.appspot.com",
-    messagingSenderId: "391265580525"
+    messagingSenderId: "your id" // Add your data
 };
 export { firebaseConfig }
