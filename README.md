@@ -90,6 +90,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- Me
-- My brother (The main Idea)
-- Mustafa (My student)
+- Me,  My brother (The main Idea)
+- Mustafa
